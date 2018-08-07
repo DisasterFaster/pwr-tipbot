@@ -1,9 +1,9 @@
-# Bot for PWRcoin's Discord
+# Bot for PWR Coin's Discord
 (This README will be updated along with bot updates)
 
 Features:
 
-- Tipbot for PWRcoin. Responds to `!tip`.
+- Tipbot for PWR Coin. Responds to `!tip`.
 - Dynamic plugin loading with permission support.
 
 
